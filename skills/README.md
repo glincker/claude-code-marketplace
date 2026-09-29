@@ -82,6 +82,12 @@ Workflow automation and orchestration skills.
 - Monitoring setup
 - Alert management
 
+### [Integrations](integrations/)
+Skills for connecting external apps, APIs, and managed integration platforms.
+
+**Featured Skills:**
+- [aident-skill](integrations/aident-skill/SKILL.md) - Connect agents to Aident Loadout integrations, Vault, MCP, CLI, and audit history
+
 ## Contributing a Skill
 
 Want to add your skill to the marketplace?
