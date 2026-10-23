@@ -18,6 +18,13 @@
       "keywords": ["aident", "integrations", "mcp", "cli", "vault", "automation"]
     },
     {
+      "name": "deed-page",
+      "source": "./skills/integrations/deed-page",
+      "description": "Publish an HTML file or a folder Claude generated to a permanent https://<slug>.deed.page/ URL with one curl request, no account needed; update or delete it later with the returned owner token.",
+      "version": "1.1.0",
+      "keywords": ["deed-page", "publish", "static-site", "hosting", "deploy"]
+    },
+    {
       "name": "pr-reviewer",
       "source": "./skills/devops/pr-reviewer",
       "description": "Autonomous AI-powered pull request reviewer with multi-agent analysis",

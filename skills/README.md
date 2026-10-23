@@ -87,6 +87,7 @@ Skills for connecting external apps, APIs, and managed integration platforms.
 
 **Featured Skills:**
 - [aident-skill](integrations/aident-skill/SKILL.md) - Connect agents to Aident Loadout integrations, Vault, MCP, CLI, and audit history
+- [deed-page](integrations/deed-page/SKILL.md) - Publish generated HTML or a folder to a permanent deed.page URL, and update or delete it with the owner token
 
 ## Contributing a Skill
 
