@@ -1,6 +1,6 @@
 ---
 name: aident-skill
-description: Use Aident Loadout to connect your AI agents to 1,000+ real-world apps and tools like Gmail, Slack, Linear, Notion, Firecrawl, and Fal, unlock 27,000+ executable actions, and track full audit history so your agents can get real work done reliably.
+description: Use Aident Loadout to connect your AI agents to real-world apps and tools like Gmail, Slack, Linear, Notion, Firecrawl, and Fal, run real executable actions, and track full audit history so your agents can get real work done reliably.
 allowed-tools: ["Bash", "Read", "WebFetch"]
 author: Aident
 homepage: https://loadout.aident.ai

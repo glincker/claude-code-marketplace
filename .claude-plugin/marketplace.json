@@ -13,7 +13,7 @@
     {
       "name": "aident-skill",
       "source": "./skills/integrations/aident-skill",
-      "description": "Use Aident Loadout to connect your AI agents to 1,000+ real-world apps and tools like Gmail, Slack, Linear, Notion, Firecrawl, and Fal, unlock 27,000+ executable actions, and track full audit history so your agents can get real work done reliably.",
+      "description": "Use Aident Loadout to connect your AI agents to real-world apps and tools like Gmail, Slack, Linear, Notion, Firecrawl, and Fal, run real executable actions, and track full audit history so your agents can get real work done reliably.",
       "version": "0.4.0",
       "keywords": ["aident", "integrations", "mcp", "cli", "vault", "automation"]
     },
