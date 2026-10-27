@@ -16,7 +16,7 @@
 
 Aident AI helps agents move beyond chat and coding to get real work done across your tools and apps.
 
-**Aident Loadout** connects work apps and Aident-managed platform tools to AI agents. It lets agents discover 1,000+ tools like Gmail, Slack, Linear, Google Sheets, Notion, HubSpot, Firecrawl, Exa, and Fal; use connected accounts through secure Aident Vault from any supported agent; use Aident-managed capabilities without separate provider keys; execute 27,000+ real-world actions; and review every action call in audit history. This single `aident-skill` teaches agents when and how to use Aident Loadout.
+**Aident Loadout** connects work apps and Aident-managed platform tools to AI agents. It lets agents discover tools like Gmail, Slack, Linear, Google Sheets, Notion, HubSpot, Firecrawl, Exa, and Fal; use connected accounts through secure Aident Vault from any supported agent; use Aident-managed capabilities without separate provider keys; execute real-world actions; and review every action call in audit history. This single `aident-skill` teaches agents when and how to use Aident Loadout.
 
 ## First-Time Setup
 
